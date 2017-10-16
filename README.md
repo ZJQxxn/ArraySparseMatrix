@@ -1,7 +1,7 @@
-#SpareMatrix
+# SpareMatrix
 
 
-##Struct:'MatrixTerm'
+## Struct:'MatrixTerm'
 >class for terms in a matrix 
 >
 >Memeber variables:
@@ -23,7 +23,7 @@
 > Invert the term's value.
 
 
-##class:'SpareMatrix'
+## class:'SpareMatrix'
 >class of a spare matrix
 
 >Memeber varaibles:
@@ -80,7 +80,7 @@
 >>Multiply a matrix by a number.Return the result matrix.
 
 
-##TODO:
+## TODO:
 
 1. Implement `multiply(SpareMatrix&)` so that it can multiply with anther matrix.
 2. Implement `toString()` to simplify output.
